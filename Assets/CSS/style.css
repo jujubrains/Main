@@ -40,3 +40,12 @@ hr {
     font-weight: bold;
     margin: 0px auto;
 }
+
+#footer {
+    border-top: 6px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    background-color: #666666;
+    text-align: center;
+    font-size: 6pt;
+}
