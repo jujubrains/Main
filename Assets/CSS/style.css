@@ -79,6 +79,12 @@ hr {
     text-align: center;
     line-height: 250%;
     margin-bottom: 20px;
+    width: 200px;
+}
+
+.portfolio {
+    height: 120px;
+    width: 170px;
 }
 
 #contact {
