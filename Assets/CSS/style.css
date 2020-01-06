@@ -53,6 +53,34 @@ hr {
     margin: 0px auto;
 }
 
+#portfolio {
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 600px;
+    margin: 25px;
+    margin-left: 150px;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+}
+
+.imgcontainer {
+    margin: 20px;
+    border-color: #b1b1b1;
+    border: 1px;
+    border-style: solid;
+}
+
+.banner {
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 12pt;
+    text-align: center;
+    line-height: 250%;
+    margin-bottom: 20px;
+}
+
 #contact {
     text-align: left;
     background-color: #ffffff;
