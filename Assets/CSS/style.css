@@ -53,6 +53,18 @@ hr {
     margin: 0px auto;
 }
 
+#contact {
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 700px;
+    margin: 25px;
+    margin-left: 90px;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+}
+
 #footer {
     border-top: 6px;
     border-style: solid;
